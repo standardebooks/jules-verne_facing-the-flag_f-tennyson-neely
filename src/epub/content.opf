@@ -55,47 +55,43 @@
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">The adventures of an engineer who poses as an aide to a scientist whose invention of a world conquering weapon drives him insane and makes him the kidnapping target of an vicious pirate who wants to learn the secrets of the weapon.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">In another science based adventure, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; takes us on the journey of the engineer Simon Hart as he poses as an aide to the scientist Dr. Roche whose invention of a world conquering weapon utilizing the power of matter has driven him insane. As the paranoid doctor rests in a sanatorium, the vicious pirate Karraje masquerading as the Count d’Artigas kidnaps both him and the engineer and takes them to a secret hideaway in a burned out island caldera in the Bermudas. But the engineer hatches an ingenious escape plan that sets in motion the climactic battle scene and the final revelation of Dr. Roche.</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11556</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://books.google.com/books?id=VR0XAAAAYAAJ</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Facing_the_Flag</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_facing-the-flag_f-tennyson-neely</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">F. Tennyson Neely</dc:contributor>
 		<meta property="file-as" refines="#translator">Neely, F. Tennyson</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Frank Tennyson Neely</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2003106823</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Albert Bierstadt</dc:contributor>
+		<meta property="file-as" refines="#artist">Bierstadt, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Bierstadt</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50011230</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Norm Wolcott</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norm</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Bob Kenyon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kenyon, Bob</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://www.bobrk.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
