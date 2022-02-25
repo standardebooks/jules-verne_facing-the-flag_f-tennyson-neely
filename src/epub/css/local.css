@@ -5,6 +5,11 @@
 	text-align: center;
 }
 
+#chapter-13 footer{
+	font-variant: small-caps;
+	text-align: right;
+}
+
 #chapter-17 blockquote{
 	text-align: center;
 }
