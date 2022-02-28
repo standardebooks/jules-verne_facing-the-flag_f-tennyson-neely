@@ -2,15 +2,16 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-1 blockquote{
-	text-align: center;
-}
-
-#chapter-13 footer{
-	margin-top: 1em;
 	font-variant: small-caps;
-	text-align: right;
 }
 
+#chapter-1 blockquote,
 #chapter-17 blockquote{
 	text-align: center;
+}
+
+footer{
+	font-variant: small-caps;
+	margin-top: 1em;
+	text-align: right;
 }
