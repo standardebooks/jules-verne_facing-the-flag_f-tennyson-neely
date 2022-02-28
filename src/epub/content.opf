@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/facing-the-flag/f-tennyson-neely</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-02-28T21:10:32Z</dc:date>
+		<meta property="dcterms:modified">2022-02-28T21:10:32Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,13 +56,18 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">The adventures of an engineer who poses as an aide to a scientist whose invention of a world conquering weapon drives him insane and makes him the kidnapping target of an vicious pirate who wants to learn the secrets of the weapon.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">In another science based adventure, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; takes us on the journey of the engineer Simon Hart as he poses as an aide to the scientist Dr. Roche whose invention of a world conquering weapon utilizing the power of matter has driven him insane. As the paranoid doctor rests in a sanatorium, the vicious pirate Karraje masquerading as the Count d’Artigas kidnaps both him and the engineer and takes them to a secret hideaway in a burned out island caldera in the Bermudas. But the engineer hatches an ingenious escape plan that sets in motion the climactic battle scene and the final revelation of Dr. Roche.</meta>
+		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">42</meta>
+		<dc:description id="description">An engineer poses as an aide to a scientist whose invention of a world-conquering weapon drives him insane.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;In another science-based entry in his &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;Voyages Extraordinaires&lt;/a&gt; series, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; takes us on the journey of Simon Hart, an engineer who poses as an aide to the scientist Dr. Roche. Roche’s whose invention of a world conquering weapon has driven him insane, and as the paranoid doctor rests in a sanatorium, the vicious pirate Karraje kidnaps both him and the Hart. Karraje takes them to a secret hideaway in a burned-out island caldera in the Bermudas—but Hart hatches an ingenious escape plan.&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11556</dc:source>
 		<dc:source>https://books.google.com/books?id=VR0XAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">56970</meta>
+		<meta property="se:reading-ease.flesch">69.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Facing_the_Flag</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_facing-the-flag_f-tennyson-neely</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -98,6 +103,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
