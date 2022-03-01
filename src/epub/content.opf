@@ -61,7 +61,7 @@
 		<meta property="group-position" refines="#collection-1">42</meta>
 		<dc:description id="description">An engineer poses as an aide to a scientist whose invention of a world-conquering weapon drives him insane.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In another science-based entry in his &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;Voyages Extraordinaires&lt;/a&gt; series, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; takes us on the journey of Simon Hart, an engineer who poses as an aide to the scientist Dr. Roche. Roche’s whose invention of a world conquering weapon has driven him insane, and as the paranoid doctor rests in a sanatorium, the vicious pirate Karraje kidnaps both him and the Hart. Karraje takes them to a secret hideaway in a burned-out island caldera in the Bermudas—but Hart hatches an ingenious escape plan.&lt;/p&gt;
+			&lt;p&gt;In another science-based entry in his &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;Voyages Extraordinaires&lt;/a&gt; series, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Verne&lt;/a&gt; takes us on the journey of Simon Hart, an engineer who poses as an aide to the scientist Dr. Roche. Roche’s whose invention of a world conquering weapon has driven him insane, and as the paranoid doctor rests in a sanatorium, the vicious pirate Karraje kidnaps both him and Hart. Karraje takes them to a secret hideaway in a burned-out island caldera in the Bermudas—but Hart hatches an ingenious escape plan.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11556</dc:source>
