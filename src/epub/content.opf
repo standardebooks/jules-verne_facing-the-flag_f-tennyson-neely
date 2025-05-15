@@ -28,6 +28,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Facing the Flag</dc:title>
 		<meta property="file-as" refines="#title">Facing the Flag</meta>
+		<meta property="dcterms:alternative" refines="#title">For the Flag</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Revenge -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Pirates -- Fiction</dc:subject>
