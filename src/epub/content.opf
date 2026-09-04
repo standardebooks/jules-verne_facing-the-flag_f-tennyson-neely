@@ -32,14 +32,14 @@
 		<meta property="file-as" refines="#title">Facing the Flag</meta>
 		<meta property="dcterms:alternative" refines="#title">For the Flag</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Revenge -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Pirates -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Mentally ill -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Abduction -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Avarice -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Weapons of mass destruction -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Patriotism -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Loyalty -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Revenge--Fiction</dc:subject>
+		<dc:subject id="subject-3">Pirates--Fiction</dc:subject>
+		<dc:subject id="subject-4">Mentally ill--Fiction</dc:subject>
+		<dc:subject id="subject-5">Abduction--Fiction</dc:subject>
+		<dc:subject id="subject-6">Avarice--Fiction</dc:subject>
+		<dc:subject id="subject-7">Weapons of mass destruction--Fiction</dc:subject>
+		<dc:subject id="subject-8">Patriotism--Fiction</dc:subject>
+		<dc:subject id="subject-9">Loyalty--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
